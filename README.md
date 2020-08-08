@@ -1,6 +1,6 @@
 ## Hi, there 👋 , i am sharun 
 
-### life time student, Developer and explorer 
+### Life time student, Developer and explorer 
 
 
 <!--
