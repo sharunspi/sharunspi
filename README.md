@@ -1,8 +1,7 @@
 ## Hi, there 👋 , i am sharun 
 
 ### Life time student and Developer
-
-### Graducated in mechanical engineering ⚡ , currently working as Full-stack developer 🔭 
+### currently working as Full-stack developer 🔭 
 
 ### my powers ✨  
 
