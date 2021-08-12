@@ -1,7 +1,7 @@
 ## Hi, there 👋 , i am sharun 
 
 ### Life time student and Developer
-### currently working as Full-stack developer 🔭 
+### Full-stack developer 🔭 
 
 ### my powers ✨  
 
