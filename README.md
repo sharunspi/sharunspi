@@ -69,15 +69,3 @@ I fell in love with JavaScript early on and never looked back. My journey starte
 ## 📊 GitHub Stats
 
 [![Sharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharunspi&show_icons=true&theme=default)](https://github.com/sharunspi/github-readme-stats)
-
----
-
-## 🎓 Education
-
-**B.Tech** — Government Engineering College Kozhikode, Kerala *(2015 – 2019)*
-- Founded **Hello Code** — a coding club to bring together students passionate about programming
-- Coordinator for the Innovation & Entrepreneurship Club
-
----
-
-*"Building great products is creating value in the world."*
