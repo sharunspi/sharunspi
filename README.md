@@ -10,7 +10,7 @@
 <br>
 
 <p>
-I'm Sharun — a full-stack developer with <strong>4+ years of experience</strong> who loves building products that create real value. The happiest moment for me is when someone smiles while using something I built ❤️.
+I'm Sharun — a full-stack developer with <strong>6+ years of experience</strong> who loves building products that create real value. The happiest moment for me is when someone smiles while using something I built ❤️.
 </p>
 
 <p>
