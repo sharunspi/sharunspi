@@ -12,11 +12,6 @@
 <p>
 I'm Sharun — a full-stack developer with <strong>6+ years of experience</strong> who loves building products that create real value. The happiest moment for me is when someone smiles while using something I built ❤️.
 </p>
-
-<p>
-You won't catch me sitting idle — I explore everything: books, places, art, and of course, code.
-</p>
-
 <p>
 I fell in love with JavaScript early on and never looked back. My journey started by building a website for my college tech fest — today I architect and ship full-stack products used in sustainability reporting, underwater robotics, and beyond.
 </p>
@@ -58,21 +53,6 @@ I fell in love with JavaScript early on and never looked back. My journey starte
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-
----
-
-## 💼 Experience
-
-**Product Engineering Manager / Senior Software Developer** @ [Oren (Maroon Oak Technologies)](https://maroonoak.com) *(Jan 2022 – Present)*
-- Spearheaded end-to-end development of **OSH (OREN Sustainability Hub)** — an integrated GHG reporting and supply chain management tool
-- Designed and built **OREN Prism** — an ESG report creation platform
-- First engineering hire; shaped the team's culture, coding standards, and technical direction
-- Mentoring junior developers and establishing CI/CD best practices
-
-**Software Developer (Full Stack)** @ [EyeROV (Irov Technologies)](https://eyerov.com) *(Jul 2019 – Feb 2022)*
-- Core member of the startup's software department from the ground up
-- Built **EVAP** — a SaaS platform for video/image enhancement and damage visualization in underwater robotics
-- Worked across the full SDLC: development, architecture, deployment
 
 ---
 
